@@ -1,0 +1,2 @@
+# webassets
+Public web assets
